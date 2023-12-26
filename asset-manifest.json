@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Project-RandomPassword/static/css/main.1b5f088b.css",
+    "main.js": "/React-Project-RandomPassword/static/js/main.3df41498.js",
+    "static/js/787.9f2bf4a8.chunk.js": "/React-Project-RandomPassword/static/js/787.9f2bf4a8.chunk.js",
+    "index.html": "/React-Project-RandomPassword/index.html",
+    "main.1b5f088b.css.map": "/React-Project-RandomPassword/static/css/main.1b5f088b.css.map",
+    "main.3df41498.js.map": "/React-Project-RandomPassword/static/js/main.3df41498.js.map",
+    "787.9f2bf4a8.chunk.js.map": "/React-Project-RandomPassword/static/js/787.9f2bf4a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b5f088b.css",
+    "static/js/main.3df41498.js"
+  ]
+}
